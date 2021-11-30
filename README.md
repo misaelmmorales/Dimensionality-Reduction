@@ -21,9 +21,9 @@ The main goal of each workflow is simple. (1) Encode the MNIST dataset into a la
     <img src="https://github.com/misaelmmorales/Dimensionality-Reduction/blob/main/images/interp_subsurface_data.png", width=500>
 </p>
 
+***
 For each dimensionality reduction technique, we will obtain a basis (tailored/generic), a latent space representation, and a reconstructed image. 
 
-***
 For example, with SVD we obtain:
 <p align="center">
   <img src="https://github.com/misaelmmorales/Dimensionality-Reduction/blob/main/images/adr_complete.JPG">
