@@ -3,7 +3,7 @@ Simple workflows for advanced dimensionality reduction techniques.
 - Principal Component Analsysis (PCA)
 - Singular Value Decomposition (SVD)
 - Dictionary Learning
-- Discrete Cosine Transform / Fast Fourier Transform / Discrete Wavelet Transform
+- Fourier Transform / Wavelet Transform
 - Proper Orthogonal Decomposition (POD) / Dynamic Mode Decomposition (DMD)
 - Deep Learning-based AutoEncoders
 
