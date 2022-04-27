@@ -4,8 +4,8 @@ Simple workflows for advanced dimensionality reduction techniques.
 - Singular Value Decomposition (SVD)
 - Dictionary Learning
 - Fourier Transform / Wavelet Transform
-- Proper Orthogonal Decomposition (POD) / Dynamic Mode Decomposition (DMD)
-- Deep Learning AutoEncoders
+- Dynamic Mode Decomposition (DMD)
+- Deep Learning AutoEncoders (CNN, VAE, U-Net, AAE)
 
 ***
 Each workflow demonstrates a different dimensionality reduction technique. For demonstration purposes, we use the MNIST (handwritten digits) dataset from tensorflow ([link](https://www.tensorflow.org/api_docs/python/tf/keras/datasets/mnist)). This dataset contains 60,000 instances of 28x28 images of digits 0 through 9.
