@@ -36,3 +36,6 @@ Remarks:
 - The MNIST dataset has the digits centered at the image. Therefore, we using the learned basis from this generic dataset, our subsurface image reconstructions will be most accurate near the center and quite bad near the edges. If we increase the dimension of the latent space, we start to gather information of the edges (which is irrelevant for MNIST but relevant for subsurface maps). Therefore, for this particular transfer learning problem, we might need to use more latent variables than desired. Using a different generic dataset with more information near the edges to learn the sparse encoding might help in transfer reconstruction.
 - For MNIST compression and reconstruction, our experiment shows that 36 latent variables are sufficient to obtain a very good MNIST reconstruction, with approximately MSE=0.01 and SSIM=0.85!
 - For subsurface compression and reconstruction, we tend to need a larger latent manifold in order to find the information necessary for good reconstruction. However, we can still see from simple experiments that using medium-sized latent spaces we can obtain MSE's of about 0.15 and SSIM's of about 0.6!
+
+  ***
+  contact: github.com/misaelmmorales
