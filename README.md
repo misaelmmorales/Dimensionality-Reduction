@@ -1,6 +1,4 @@
 # Advanced Dimensionality Reduction
-Misael M. Morales, Carlos Torres-Verdin, and Michael Pyrcz. (in preparation). A comparison of dimensionality reduction techniques for subsurface modeling.
-
 ***
 Simple workflows for advanced dimensionality reduction techniques. 
 - [Principal Component Analsysis](https://github.com/misaelmmorales/Dimensionality-Reduction/blob/main/ADR_PCA.ipynb)
