@@ -1,6 +1,6 @@
 # Advanced Dimensionality Reduction
 ***
-Simple workflows for advanced dimensionality reduction techniques. 
+Simple workflows for advanced dimensionality reduction techniques
 - [Principal Component Analsysis](https://github.com/misaelmmorales/Dimensionality-Reduction/blob/main/ADR_PCA.ipynb)
 - [Singular Value Decomposition](https://github.com/misaelmmorales/Dimensionality-Reduction/blob/main/ADR_SVD.ipynb)
 - [Dictionary Learning](https://github.com/misaelmmorales/Dimensionality-Reduction/blob/main/ADR_DictionaryLearning.ipynb)
