@@ -39,4 +39,3 @@ Remarks:
 - For subsurface compression and reconstruction, we tend to need a larger latent manifold in order to find the information necessary for good reconstruction. However, we can still see from simple experiments that using medium-sized latent spaces we can obtain MSE's of about 0.15 and SSIM's of about 0.6!
 
   ***
-  contact: github.com/misaelmmorales
