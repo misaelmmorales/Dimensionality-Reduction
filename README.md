@@ -20,7 +20,7 @@ The main goal of each workflow is simple. (1) Encode the MNIST dataset into a la
   <img src="https://github.com/misaelmmorales/Dimensionality-Reduction/blob/main/images/enc_dec_diagram.png", width=400>
 </p> 
 <p align="center">
-    <img src="https://github.com/misaelmmorales/Dimensionality-Reduction/blob/main/images/interp_subsurface_data.png", width=500>
+    <img src="https://github.com/misaelmmorales/Dimensionality-Reduction/blob/main/images/interp_subsurface_data.png", width=750>
 </p>
 
 ***
