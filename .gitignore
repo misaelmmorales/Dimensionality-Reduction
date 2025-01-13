@@ -2,3 +2,4 @@ paper/*
 data/data_1272_128x128.npz
 data/datasets/*.npy
 animations/montecarlo.gif
+dictionary.pkl
